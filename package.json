@@ -1,0 +1,18 @@
+{
+	"dependencies": {
+		"bootstrap": "^5.3.1",
+		"ejs": "^3.1.9",
+		"express": "^4.18.2",
+		"generate-schema": "^2.6.0",
+		"json-schema-generator": "^2.0.6",
+		"json-schema-to-typescript": "^13.1.2",
+		"shiki": "^0.14.7"
+	},
+	"scripts": {
+		"start": "node app.js"
+	},
+	"type": "commonjs",
+	"devDependencies": {
+		"shikiji": "^0.10.1"
+	}
+}
